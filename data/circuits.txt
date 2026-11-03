@@ -1,0 +1,11 @@
+Mercedes,78.0,2.2
+Ferrari,78.1,2.3
+McLaren,78.2,2.3
+Red Bull Racing,78.2,2.1
+Racing Bulls,79.0,2.5
+Alpine,79.1,2.6
+Haas,79.3,2.7
+Audi,79.4,2.8
+Williams,79.2,2.6
+Aston Martin,79.5,2.7
+Cadillac,80.0,3.0
