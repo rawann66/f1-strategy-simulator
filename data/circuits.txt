@@ -1,0 +1,21 @@
+Albert Park Grand Prix Circuit,58,78.5,21.0,1.1
+Shanghai International Circuit,56,92.0,23.0,1.3
+Suzuka Circuit,53,88.0,22.0,1.25
+Miami International Autodrome,57,88.5,21.5,1.15
+Circuit Gilles Villeneuve,70,72.5,20.5,0.95
+Circuit de Monaco,78,72.0,20.0,0.65
+Circuit de Barcelona-Catalunya,66,74.5,22.0,1.35
+Red Bull Ring,71,66.0,20.0,0.85
+Silverstone Circuit,52,88.5,22.5,1.2
+Circuit de Spa-Francorchamps,44,104.0,24.0,1.3
+Hungaroring,70,77.0,21.0,1.1
+Circuit Zandvoort,72,71.0,21.5,1.2
+Autodromo Nazionale Monza,53,81.0,24.0,0.8
+Baku City Circuit,51,102.0,23.5,0.9
+Marina Bay Street Circuit,62,95.0,28.0,1.0
+Circuit of The Americas,56,94.0,22.0,1.25
+Autodromo Hermanos Rodriguez,71,76.5,22.0,0.9
+Autodromo Jose Carlos Pace,71,70.5,21.0,1.0
+Las Vegas Strip Circuit,50,93.0,21.5,0.85
+Lusail International Circuit,57,83.0,23.0,1.4
+Yas Marina Circuit,58,86.0,22.0,1.0
