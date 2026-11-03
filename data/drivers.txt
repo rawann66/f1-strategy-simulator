@@ -1,0 +1,22 @@
+George Russell,Mercedes,0.93,0.91
+Andrea Kimi Antonelli,Mercedes,0.92,0.88
+Charles Leclerc,Ferrari,0.94,0.89
+Lewis Hamilton,Ferrari,0.95,0.93
+Lando Norris,McLaren,0.93,0.91
+Oscar Piastri,McLaren,0.90,0.89
+Max Verstappen,Red Bull Racing,0.96,0.95
+Isack Hadjar,Red Bull Racing,0.86,0.85
+Liam Lawson,Racing Bulls,0.85,0.84
+Arvid Lindblad,Racing Bulls,0.82,0.81
+Pierre Gasly,Alpine,0.86,0.85
+Franco Colapinto,Alpine,0.83,0.82
+Oliver Bearman,Haas,0.84,0.83
+Esteban Ocon,Haas,0.85,0.84
+Nico Hulkenberg,Audi,0.84,0.86
+Gabriel Bortoleto,Audi,0.82,0.82
+Alex Albon,Williams,0.85,0.84
+Carlos Sainz Jr.,Williams,0.89,0.88
+Fernando Alonso,Aston Martin,0.91,0.92
+Lance Stroll,Aston Martin,0.79,0.78
+Valtteri Bottas,Cadillac,0.83,0.84
+Sergio Perez,Cadillac,0.82,0.80
