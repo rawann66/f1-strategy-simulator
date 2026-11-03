@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Strategy &amp; Tyre Degradation Simulator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Titillium+Web:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="brand">
+    <span class="f1">F1</span>
+    <h1>Strategy &amp; Tyre Degradation Simulator</h1>
+  </div>
+  <div class="live" id="liveBadge"><span class="dot"></span>Race Live</div>
+</header>
+
+<div class="grid">
+  <div class="setup">
+    <h2>Race Setup</h2>
+    <div class="field"><label for="circuitSel">Circuits</label>
+      <div class="select-wrap"><select id="circuitSel"></select></div>
+    </div>
+    <div class="field"><label for="teamSel">Teams</label>
+      <div class="select-wrap"><select id="teamSel"></select></div>
+    </div>
+    <div class="field"><label>Drivers</label>
+      <div class="drivers" id="driverBtns"></div>
+    </div>
+    <div class="field"><label for="stratSel">Tyre Strategy</label>
+      <div class="select-wrap"><select id="stratSel"></select></div>
+    </div>
+    <div class="field"><label>Car</label>
+      <div class="car-box"><img id="carImg" alt="Team car"></div>
+    </div>
+    <button class="simulate" id="simBtn" disabled>simulate →</button>
+  </div>
+
+  <div>
+    <div class="graph-panel">
+      <h2>Tire degradation</h2>
+      <div class="legend">
+        <span><i class="dot9 hard"></i>Hard</span>
+        <span><i class="dot9 medium"></i>Medium</span>
+        <span><i class="dot9 soft"></i>Soft</span>
+      </div>
+      <svg class="graph" id="graphSvg" viewBox="0 0 640 280"></svg>
+    </div>
+
+    <div class="standings">
+      <h2 id="standingsTitle">Drivers Standing — Select a Circuit</h2>
+      <div id="standingsBody"><div class="placeholder">Standings will be displayed after the race finishes.</div></div>
+    </div>
+  </div>
+</div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

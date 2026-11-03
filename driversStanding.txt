@@ -1,0 +1,22 @@
+1 George Russell Mercedes 10698.081699999999
+2 Andrea Kimi Antonelli Mercedes  +165.549
+3 Isack Hadjar Red Bull Racing  +172.680
+4 Charles Leclerc Ferrari  +178.839
+5 Lewis Hamilton Ferrari  +179.584
+6 Max Verstappen Red Bull Racing  +180.129
+7 Oscar Piastri McLaren  +183.659
+8 Lando Norris McLaren  +185.894
+9 Arvid Lindblad Racing Bulls  +248.100
+10 Liam Lawson Racing Bulls  +250.335
+11 Franco Colapinto Alpine  +260.645
+12 Pierre Gasly Alpine  +262.880
+13 Alex Albon Williams  +269.935
+14 Carlos Sainz Jr. Williams  +272.914
+15 Oliver Bearman Haas  +280.990
+16 Esteban Ocon Haas  +281.735
+17 Gabriel Bortoleto Audi  +291.300
+18 Nico Hulkenberg Audi  +292.790
+19 Lance Stroll Aston Martin  +292.865
+20 Fernando Alonso Aston Martin  +301.804
+21 Sergio Perez Cadillac  +346.100
+22 Valtteri Bottas Cadillac  +346.845
